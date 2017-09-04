@@ -1,0 +1,11 @@
+title: te2ka.github.io
+description: te2ka's introduction
+
+github:
+  repository_url: https://github.com/te2ka/te2ka.github.io
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-hacker
+plugins:
+  - jekyll-feed
